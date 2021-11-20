@@ -1,4 +1,4 @@
-# COL106: Job Scheduler
+# Job Scheduler
 
 # 1. PriorityQueue Interface
 - Priority queue node which stores the object entered, 
